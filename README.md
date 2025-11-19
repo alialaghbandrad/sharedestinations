@@ -1,0 +1,1 @@
+This repository presents the sourcecode and technical features and business plan of sharedestinations.com. Share Destinations is a web application that enables users share experience by pinning their Instagram posts on the map.
